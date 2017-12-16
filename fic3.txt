@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hola !
 salut
+=======
+>>>>>>> parent of 0105c69... Signed-off-by: jmsinquin <jiem51@gmail.com>
